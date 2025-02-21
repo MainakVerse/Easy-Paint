@@ -3,6 +3,5 @@
 ### Your personal painting website
 
 ## Demo 
-
-![paint](https://user-images.githubusercontent.com/64016811/118350771-2cf5b280-b576-11eb-9781-ba2989d542f4.gif)
+![image](https://github.com/user-attachments/assets/69df5a67-047c-4fe3-8760-2a7a778f01da)
 
